@@ -1,0 +1,1 @@
+# esp32_s3_wroom-1_DevKitC-1_kiCad_schematic_by_j
